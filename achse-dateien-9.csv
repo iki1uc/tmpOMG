@@ -1,0 +1,10 @@
+﻿Achse,Dateien,RAW‑Cluster
+Truth,"narrativ-truth-9.csv, PALAISE.TRUTHFLOW",RAW‑01–RAW‑09
+Myth,"error.tmp, help.tmp",RAW‑10–RAW‑18
+Drift,"nord.tmp, ost.tmp, sued.tmp, west.tmp",RAW‑19–RAW‑27
+Tensor,"UTM.js, operator.tmp",RAW‑28–RAW‑36
+Orbit,"octa.tmp, tetriz.tmp",RAW‑37–RAW‑45
+Pulse,"p.tmp, tmp.po.raer.tmp",RAW‑46–RAW‑54
+Wave,"e.galaxy, move.edit",RAW‑55–RAW‑63
+Field,"fit.tmp, morph.tmp",RAW‑64–RAW‑72
+Geist,"PALAISE.RESPO, PALAISE.raw",RAW‑73–RAW‑81
